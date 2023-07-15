@@ -11,9 +11,9 @@ export default function Home() {
         <title>Index page</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
-      <Main page = "index"/>
       <Header/>
+      <Main page = "index"/>
+      
       <Footer/>
     </div>
   )
